@@ -6,7 +6,7 @@
 
 2. do " pip install -r packages.txt "
 3. run the main.py
-4. the output will be in DOwnloads folder
+4. the output will be in Downloads folder
 
 
 
